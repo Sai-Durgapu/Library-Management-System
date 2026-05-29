@@ -1,0 +1,12 @@
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\bin\Debug\net10.0\LibraryManagement.deps.json
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\bin\Debug\net10.0\LibraryManagement.dll
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\bin\Debug\net10.0\LibraryManagement.pdb
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\obj\Debug\net10.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\obj\Debug\net10.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\obj\Debug\net10.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\obj\Debug\net10.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\obj\Debug\net10.0\LibraryManagement.sourcelink.json
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\obj\Debug\net10.0\LibraryManagement.dll
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\obj\Debug\net10.0\refint\LibraryManagement.dll
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\obj\Debug\net10.0\LibraryManagement.pdb
+C:\Users\durga\practice\LibraryManagementSystem\LibraryManagement\obj\Debug\net10.0\ref\LibraryManagement.dll
